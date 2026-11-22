@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/thingfabric/.github/main/profile/logo.svg" alt="ThingFabric logo" width="96" align="right">
+
 # ThingFabric
 
 **Matter in pure Go** — an embeddable library for the device and the controller
